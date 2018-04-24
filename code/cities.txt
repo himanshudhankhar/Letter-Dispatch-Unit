@@ -1,0 +1,4 @@
+delhi|50
+jaipur|200
+panipat|400
+
